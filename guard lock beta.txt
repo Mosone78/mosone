@@ -1,5 +1,5 @@
-! Title: Steven Black's List
-! Description: Unified hosts file (adware + malware).
+! Title: bloqueo de anuncios 
+! Description: Unified hosts file ().
 ! Version: Beta
 ! Homepage: https://github.com/Mosone
 ! Last modified: 
