@@ -11,6 +11,7 @@ umlazada.alibaba.com
 ss.corylusspignut.com
 seller-acs.aliexpress.com
 yeastexisting.com
+static.galaksion.com
 
 !Webs
 sportium.com
